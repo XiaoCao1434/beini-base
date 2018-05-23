@@ -1,0 +1,22 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.beini.base.config.PropertiesConfig",
+      "name": "base",
+      "type": "com.beini.base.config.PropertiesConfig"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.beini.base.config.PropertiesConfig",
+      "name": "base.myname",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.beini.base.config.PropertiesConfig",
+      "name": "base.myname2",
+      "type": "java.lang.String"
+    }
+  ]
+}
